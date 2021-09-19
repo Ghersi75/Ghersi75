@@ -17,4 +17,4 @@ My name is Ghersi, and I'm currently a sophomore at the University of Connecticu
   * SQL: Went through W3 school course for SQL, but haven't used it for anything ever.
   * Maybe theres more random languages that I used along the way for something that I forgot about. Will add more as time passes. 
 
-That's it, kthxbai.
+## That's it, kthxbai.
