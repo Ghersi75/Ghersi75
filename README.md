@@ -18,3 +18,5 @@ My name is Ghersi, and I'm currently a sophomore at the University of Connecticu
   * Maybe theres more random languages that I used along the way for something that I forgot about. Will add more as time passes. 
 
 ## That's it for now. Will keep updating whenever I have more to add. 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghersi75&show_icons=true&theme=radical)
