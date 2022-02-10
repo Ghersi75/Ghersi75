@@ -19,6 +19,6 @@ My name is Ghersi, and I'm currently a sophomore at the University of Connecticu
 
 ## That's it for now. Will keep updating whenever I have more to add. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghersi75&show_icons=true&theme=highcontrast)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghersi75&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 # 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghersi75&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
