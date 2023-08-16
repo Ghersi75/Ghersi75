@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghersi</h1>
-<h3 align="center">Just guy doing things, mainly web development</h3>
+<h3 align="center">Just a guy doing things, mainly web development</h3>
 
 - 🔭 I’m currently working on **a pizzeria website**
 
